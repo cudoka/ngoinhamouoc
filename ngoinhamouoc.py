@@ -1,5 +1,7 @@
 import turtle
 
+turtle.bgcolor("aqua")
+
 turtle.pensize (3)
 
 turtle.penup()
@@ -240,4 +242,4 @@ turtle.end_fill()
 
 
 
-turtle.done
+turtle.done()
